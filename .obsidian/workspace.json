@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "handbook-v0.1/5_evolution-log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "5_evolution-log"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md",
+                "file": "handbook-v0.1/5_evolution-log.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de readme"
+              "title": "Sumário de 5_evolution-log"
             }
           },
           {
@@ -198,18 +198,18 @@
   },
   "active": "e60a9c6a95e0aa90",
   "lastOpenFiles": [
-    "recursos/templates/note-model.md",
-    "handbook-v0.1/5_evolution-log.md",
     "handbook-v0.1/4_knowledge-note-standard.md",
     "handbook-v0.1/3_map4-dependency-graph.md",
     "handbook-v0.1/3_map3-competency-atlas.md",
     "handbook-v0.1/3_map2-medical-robotics-atlas.md",
     "handbook-v0.1/3_map1-question-journey.md",
     "handbook-v0.1/2_constitution.md",
-    "handbook-v0.1/2_identity.md",
     "handbook-v0.1/1_foundations.md",
-    "_inbox/rasc.md",
     "readme.md",
+    "recursos/templates/note-model.md",
+    "handbook-v0.1/5_evolution-log.md",
+    "handbook-v0.1/2_identity.md",
+    "_inbox/rasc.md",
     "recursos/templates",
     "recursos",
     "_inbox",

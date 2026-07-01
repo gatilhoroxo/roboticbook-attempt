@@ -2,6 +2,21 @@
 version: "0.1"
 ---
 # Constitution
+- [[#Law 01 — Curiosity Comes Before Knowledge]]  
+- [[#Law 02 — Understand Before Memorizing]] 
+- [[#Law 03 — Everything Must Connect]] 
+- [[#Law 04 — Always Search for First Principles]] 
+- [[#Law 05 — Theory Must Meet Reality]] 
+- [[#Law 06 — Learn Systems, Not Isolated Parts]] 
+- [[#Law 07 — Progress Is Measured by Ability]] 
+- [[#Law 08 — Uncertainty Is a Guide]] 
+- [[#Law 09 — Build Before Expanding]] 
+- [[#Law 10 — Knowledge Evolves]] 
+- [[#Law 11 — Learn Actively]] 
+- [[#Law 12 — Simplicity Before Complexity]] 
+- [[#Law 13 — Think Like an Engineer]] 
+- [[#Law 14 — Think Like a Researcher]] 
+- [[#Law 15 — Never Stop Building the Handbook]] 
 
 ## Law 01 — Curiosity Comes Before Knowledge
 ### Statement

@@ -7,13 +7,13 @@ version: "0.1"
 
 ## Purpose
 - The Question Journey is the primary learning path of the handbook.
-Instead of organizing knowledge by subjects or university courses, it organizes learning through increasingly complex questions. Each question represents a real challenge that an engineer or researcher may eventually need to answer.
-The objective is not to finish chapters but to continuously develop the ability to answer better questions. Every answer should naturally generate new questions, making learning an ongoing process rather than a sequence of isolated lessons.
+Instead of organizing knowledge by subjects or university courses, it organizes learning through *increasingly complex questions*. Each question represents a real challenge that an engineer or researcher may eventually need to answer.
+The objective is not to finish chapters but to *continuously develop the ability to answer better questions*. Every answer should naturally generate new questions, making learning an ongoing process rather than a sequence of isolated lessons.
 The Question Journey serves as the engine of the entire handbook. The other maps exist to support and enrich this journey.
 ## Description
 - The Question Journey is composed of **Acts**, each representing a major stage in the development of a future medical robotics researcher.
-Each Act contains progressively deeper questions. Questions may introduce concepts from multiple disciplines simultaneously because real engineering problems rarely belong to a single subject.
-An Act is considered complete when its essential questions can be answered confidently and connected to the broader knowledge system.
+Each Act contains progressively *deeper questions*. Questions may introduce concepts from multiple disciplines simultaneously because real engineering problems rarely belong to a single subject.
+An Act is considered complete when its *essential questions can be answered* confidently and connected to the broader knowledge system.
 The journey is expected to evolve over time. New questions, Acts, and refinements may be added as the handbook grows.
 
 ## Structure
