@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "date": "date",
+    "created": "datetime",
+    "updated": "datetime",
+    "read": "date",
+    "date_begin": "date",
+    "date_end": "date"
+  }
+}

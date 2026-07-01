@@ -1,0 +1,5 @@
+{
+  "format": "YYYY/MM-MMMM/\\w\\e\\e\\k-W/YYYY-MM-DD-not\\e",
+  "template": "recursos/templates/daily-note-model",
+  "folder": "daily-notes"
+}
