@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e60a9c6a95e0aa90",
+            "id": "3a7e59814a1690c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "handbook-v0.1/4_knowledge-note-standard.md",
+                "file": "logs/log-2026-07-x1.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "4_knowledge-note-standard"
+              "title": "log-2026-07-x1"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "handbook-v0.1/4_knowledge-note-standard.md",
+                "file": "logs/log-2026-07-x1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 4_knowledge-note-standard"
+              "title": "Sumário de log-2026-07-x1"
             }
           },
           {
@@ -196,23 +196,31 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "d6f1b47f648bb10d",
+  "active": "3a7e59814a1690c9",
   "lastOpenFiles": [
-    "handbook-v0.1/4_knowledge-note-standard.md",
-    "handbook-v0.1/3_map4-dependency-graph.md",
-    "handbook-v0.1/3_map3-competency-atlas.md",
-    "handbook-v0.1/3_map2-medical-robotics-atlas.md",
-    "handbook-v0.1/3_map1-question-journey.md",
-    "handbook-v0.1/2_constitution.md",
-    "handbook-v0.1/1_foundations.md",
-    "handbook-v0.1/5_evolution-log.md",
-    "readme.md",
+    "recursos/melhorias/sugestões-de-sustentabilidade-do-PKM.md",
+    "_inbox/sensors.md",
+    "recursos/templates/log-model.md",
     "recursos/templates/note-model.md",
+    "recursos/templates/dependency-model.md",
+    "recursos/templates/competency-model.md",
+    "recursos/templates/x_back-matter.md",
+    "recursos/handbook-v0.1/4_knowledge-note-standard.md",
+    "recursos/handbook-v0.1/5_evolution-log.md",
+    "logs/log-2026-07-x1.md",
+    "logs",
+    "recursos/handbook-v0.1/3_map4-dependency-graph.md",
+    "recursos/handbook-v0.1/1_foundations.md",
+    "readme.md",
+    "recursos/melhorias",
+    "recursos/handbook-v0.1/3_map3-competency-atlas.md",
+    "recursos/handbook-v0.1/3_map2-medical-robotics-atlas.md",
+    "recursos/handbook-v0.1/3_map1-question-journey.md",
+    "recursos/handbook-v0.1/2_constitution.md",
     "handbook-v0.1/2_identity.md",
-    "_inbox/rasc.md",
     "recursos/templates",
     "recursos",
     "_inbox",
-    "handbook-v0.1"
+    "recursos/handbook-v0.1"
   ]
 }

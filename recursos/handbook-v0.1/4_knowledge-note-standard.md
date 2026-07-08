@@ -2,7 +2,6 @@
 version: "0.1"
 ---
 # Knowledge Note Standard
-
 > [!quote] How should knowledge be recorded so it can be understood, connected, and reused in the future?
 ## Purpose
 - The Knowledge Note Standard defines a common structure for recording concepts throughout the handbook.
@@ -96,6 +95,7 @@ The note explicitly records its prerequisites and what it enables.
 
 ---
 
+<<<<<<< HEAD:handbook-v0.1/4_knowledge-note-standard.md
 
 ---
 ---
@@ -135,3 +135,5 @@ Unlocks
 
 
 ---
+=======
+>>>>>>> 2f77e9d (feat: atualizações no handbook, readme e uma parte da estrutura):recursos/handbook-v0.1/4_knowledge-note-standard.md
