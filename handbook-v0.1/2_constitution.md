@@ -18,6 +18,8 @@ version: "0.1"
 - [[#Law 14 — Think Like a Researcher]] 
 - [[#Law 15 — Never Stop Building the Handbook]] 
 
+---
+
 ## Law 01 — Curiosity Comes Before Knowledge
 ### Statement
 Every topic begins with a question before it begins with an answer.

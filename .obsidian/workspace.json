@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "handbook-v0.1/5_evolution-log.md",
+                "file": "handbook-v0.1/4_knowledge-note-standard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5_evolution-log"
+              "title": "4_knowledge-note-standard"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "handbook-v0.1/5_evolution-log.md",
+                "file": "handbook-v0.1/4_knowledge-note-standard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 5_evolution-log"
+              "title": "Sumário de 4_knowledge-note-standard"
             }
           },
           {
@@ -170,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -196,7 +196,7 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "e60a9c6a95e0aa90",
+  "active": "d6f1b47f648bb10d",
   "lastOpenFiles": [
     "handbook-v0.1/4_knowledge-note-standard.md",
     "handbook-v0.1/3_map4-dependency-graph.md",
@@ -205,9 +205,9 @@
     "handbook-v0.1/3_map1-question-journey.md",
     "handbook-v0.1/2_constitution.md",
     "handbook-v0.1/1_foundations.md",
+    "handbook-v0.1/5_evolution-log.md",
     "readme.md",
     "recursos/templates/note-model.md",
-    "handbook-v0.1/5_evolution-log.md",
     "handbook-v0.1/2_identity.md",
     "_inbox/rasc.md",
     "recursos/templates",

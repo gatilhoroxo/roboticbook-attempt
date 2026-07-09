@@ -5,6 +5,8 @@ version: "0.1"
 
 > [!quote] How do I progress from knowing nothing to becoming capable of researching and developing medical robotics? 
 
+> i dont think the acts are totally ready here
+
 ## Purpose
 - The Question Journey is the primary learning path of the handbook.
 Instead of organizing knowledge by subjects or university courses, it organizes learning through *increasingly complex questions*. Each question represents a real challenge that an engineer or researcher may eventually need to answer.

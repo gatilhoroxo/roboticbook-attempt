@@ -102,72 +102,36 @@ The note explicitly records its prerequisites and what it enables.
 
 ## Example
 Let's imagine a note for **Sensors**.
-
----
-
-## Question
-
+### Question
 How can a robot obtain information about its environment?
-
----
-
-## Intuition
-
+### Intuition
 A sensor is like the robot's way of perceiving the world. Just as humans use eyes, ears, and touch, robots use devices that convert physical phenomena into information.
-
----
-
-## Definition
-
+### Definition
 A sensor is a device that measures a physical property and converts it into data that can be processed by a control system.
-
----
-
-## Engineering Perspective
-
+### Engineering Perspective
 Sensors enable feedback, control, localization, monitoring, and decision-making.
-
 Without sensors, most robots cannot adapt to changes in their environment.
-
----
-
-## Medical Robotics Perspective
-
+### Medical Robotics Perspective
 Examples include:
-
 - surgical cameras,
 - force sensors,
 - ultrasound probes,
 - encoders,
 - IMUs,
 - biosensors.
-
----
-
-## Connections
-
+### Connections
 Requires
-
 - Signal basics
 - Measurement concepts
-
 Supports
-
 - Control Systems
 - Computer Vision
-
 Unlocks
-
 - Sensor Fusion
 - Robot Perception
 - Autonomous Systems
-
----
-
-## Reflection
-
+### Reflection
 "I used to think cameras were the most important sensor. Now I understand that robots can perceive the environment through many different sensing modalities depending on the task."
 
-Notice how that last sentence reflects _your own_ evolving understanding from our earlier discussions. That's exactly the kind of insight worth preserving.
 
 ---

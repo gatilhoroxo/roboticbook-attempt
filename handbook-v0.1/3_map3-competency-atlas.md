@@ -5,6 +5,7 @@ version: "0.1"
 
 > [!quote] What abilities am I developing, and how confident am I in using them?
 
+> i think the competences still can get better, but a like this one
 
 ## Purpose
 - The Competency Atlas tracks personal growth throughout the Medical Robotics Journey.
@@ -117,6 +118,7 @@ Notice that confidence is **subjective**, and that's okay. Its purpose is to gui
 ### Programming
 - Python
 - C/C++
+- Rust
 - Algorithms
 - Data Structures
 - Software Engineering
