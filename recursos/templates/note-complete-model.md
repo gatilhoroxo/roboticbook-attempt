@@ -2,20 +2,16 @@
 created: "{{DATE:YYYY-MM-DD, HH:mm}}"
 updated: "{{DATE:YYYY-MM-DD, HH:mm}}"
 tags:
-- type/note
+  - type/note
 ---
 
 ## {{title}}
 ### Question
-> What question does this concept answer?
+> What question do I want to answer?
 - 
 
-### Intuition
-> How would I explain this idea to someone seeing it for the first time?
-- 
-
-### Definition
-> What is the formal definition?
+### Answers
+> After some research
 - 
 
 ### Engineering Perspective
@@ -33,7 +29,6 @@ tags:
 - 
 **Unlocks**
 - 
-
 
 ### Reflection
 - What surprised me?

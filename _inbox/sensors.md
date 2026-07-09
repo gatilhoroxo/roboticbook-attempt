@@ -1,10 +1,13 @@
 ---
 created: 2026-07-08T16:07:00
-updated: 2026-07-08T16:08:00
+updated: 2026-07-09T11:04
 tags:
   - type/note
 ---
+
+
 ## Sensors
+
 ### Question
 How can a robot obtain information about its environment?
 ### Intuition

@@ -2,8 +2,11 @@
 created: "{{DATE:YYYY-MM-DD, HH:mm}}"
 updated: "{{DATE:YYYY-MM-DD, HH:mm}}"
 tags:
-- type/structure
+  - type/structure
 ---
+
+## {{title}}
+
 
 ### Competency
 - 

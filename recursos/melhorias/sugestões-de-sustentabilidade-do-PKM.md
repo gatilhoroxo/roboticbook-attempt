@@ -4,6 +4,7 @@ updated: 2026-07-08T16:09:00
 tags:
   - type/structure
 ---
+
 **Sugestões concretas pra sustentabilidade:**
 
 1. **Crie um "modo rascunho" oficial no Knowledge Note Standard** — uma nota mínima válida é só Pergunta + Intuição. As outras seções (Definição formal, Conexões, Reflexão) são preenchidas depois, quando você revisitar. Isso já existe informalmente (o `_inbox`), mas formalizar isso como parte do padrão, não como algo à parte, tira a culpa de "nota incompleta".

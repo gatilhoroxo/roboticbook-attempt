@@ -1,0 +1,25 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [
+    "readme",
+    "recursos/templates",
+    "recursos/handbook-v0.1"
+  ],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "_inbox/sensors.md": "6aebb8acc9e912536682a893d412ed4f9dd08f3cf9b5a492962248f018ca3305",
+    "_inbox/q_existência-de-raios.md": "7e6f20dd7cae765d01b9d66e6936eb0c2b62bd6b02e19885880e3f38575f0679",
+    "utils/domains/Surgical Robotics.md": "dafd8e5a785cf531746ef2c7161dd9693577ca1aae254a5a4cb9fd44366059f1",
+    "utils/competencies/Programming in C.md": "4a3c954908bccd77894c8367cd06adcac6bc2d1ff5318644371a354f566fb483",
+    "box-notes/fly-life/i_pomo-doro-de-terminal.md": "5e31204e2be427d69eaa2e72f9addce239f8cbf7cd42dfad2814f40f25d4c8a3",
+    "daily-notes/logs/log-2026-07-x1.md": "78a7d5d8676ce0ba91e99f63f085a7790d6d418a1c805ed6210e5653b62faf42",
+    "daily-notes/trackers/lendo_Programming-in-C-Book.md": "b76c2136e7f6af65796c6c3db932d67d54acb52327d5e98d06f54b1f75f3e01e",
+    "box-notes/literature/n_representação-de-matriz-em-c.md": "4f108acc6e99b89071ebfd6b186e592a08f4dfca6cca859a614c426065cb5860",
+    "box-notes/permanents/rasc.md": "0a623eccd27d0bd640ceec60e9007c3a8a039d0a78efa83a5ab178511ea0bc03"
+  }
+}

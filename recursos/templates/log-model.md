@@ -2,7 +2,7 @@
 created: "{{DATE:YYYY-MM-DD, HH:mm}}"
 updated: "{{DATE:YYYY-MM-DD, HH:mm}}"
 tags:
-- type/log
+  - type/log
 ---
 
 ### Date

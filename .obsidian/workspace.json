@@ -8,20 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3a7e59814a1690c9",
+            "id": "d007795cd803dd8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logs/log-2026-07-x1.md",
+                "file": "daily-notes/logs/log-2026-07-x1.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "log-2026-07-x1"
             }
+          },
+          {
+            "id": "72e494d9fee8bbe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "box-notes/literature/n_representação-de-matriz-em-c.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "n_representação-de-matriz-em-c"
+            }
+          },
+          {
+            "id": "8aecf19c918a4d4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "box-notes/permanents/rasc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "rasc"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,31 +225,43 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "3a7e59814a1690c9",
+  "active": "8aecf19c918a4d4a",
   "lastOpenFiles": [
+    "box-notes/literature/n_representação-de-matriz-em-c.md",
+    "box-notes/permanents/rasc.md",
+    "daily-notes/logs/log-2026-07-x1.md",
+    "daily-notes/trackers/lendo_Programming-in-C-Book.md",
+    "recursos/templates/tracker-model.md",
+    "recursos/templates/note-basic-model.md",
+    "box-notes/fly-life/i_pomo-doro-de-terminal.md",
+    "daily-notes/trackers",
+    "_inbox/q_existência-de-raios.md",
     "recursos/melhorias/sugestões-de-sustentabilidade-do-PKM.md",
-    "_inbox/sensors.md",
-    "recursos/templates/log-model.md",
-    "recursos/templates/note-model.md",
-    "recursos/templates/dependency-model.md",
-    "recursos/templates/competency-model.md",
+    "recursos/handbook-v0.1/1_foundations.md",
+    "daily-notes",
     "recursos/templates/x_back-matter.md",
+    "recursos/templates/u_domain-atlas-model.md",
+    "recursos/templates/u_competency-model.md",
+    "recursos/templates/note-complete-model.md",
+    "_inbox/sensors.md",
+    "utils/domains/Surgical Robotics.md",
+    "utils/competencies/Programming in C.md",
+    "recursos/templates/log-model.md",
+    "recursos/templates/concept-model.md",
+    "recursos/handbook-v0.1/3_map2-medical-robotics-atlas.md",
+    "readme.md",
+    "utils/competencies",
+    "utils/domains",
+    "utils",
+    "box-notes/permanents",
+    "box-notes/literature",
+    "box-notes/fly-life",
+    "box-notes",
     "recursos/handbook-v0.1/4_knowledge-note-standard.md",
     "recursos/handbook-v0.1/5_evolution-log.md",
-    "logs/log-2026-07-x1.md",
-    "logs",
+    "daily-notes/logs",
     "recursos/handbook-v0.1/3_map4-dependency-graph.md",
-    "recursos/handbook-v0.1/1_foundations.md",
-    "readme.md",
-    "recursos/melhorias",
     "recursos/handbook-v0.1/3_map3-competency-atlas.md",
-    "recursos/handbook-v0.1/3_map2-medical-robotics-atlas.md",
-    "recursos/handbook-v0.1/3_map1-question-journey.md",
-    "recursos/handbook-v0.1/2_constitution.md",
-    "handbook-v0.1/2_identity.md",
-    "recursos/templates",
-    "recursos",
-    "_inbox",
-    "recursos/handbook-v0.1"
+    "recursos/handbook-v0.1/3_map1-question-journey.md"
   ]
 }
